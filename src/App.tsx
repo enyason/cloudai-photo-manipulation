@@ -8,7 +8,7 @@ import ObjectRemover from "./components/ObjectRemover.tsx";
 import BackgroundRemover from "./components/BackgroundRemover.tsx";
 import Restaurer from "./components/Restaurer.tsx";
 
-const {Header, Sider, Content} = Layout;
+const { Sider, Content} = Layout;
 
 function App() {
 
